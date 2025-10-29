@@ -1,0 +1,48 @@
+{
+  "name": "N5基础词汇",
+  "description": "日语能力考试N5级别的基础词汇集合",
+  "version": "1.0",
+  "createdDate": "2025-10-29T12:00:00Z",
+  "words": [
+    {
+      "word": "わたし",
+      "pronunciation": "[watashi]",
+      "meaning": "我",
+      "example": "わたしは学生です。- 我是学生。",
+      "level": "N5",
+      "category": "人称代词"
+    },
+    {
+      "word": "あなた",
+      "pronunciation": "[anata]",
+      "meaning": "你",
+      "example": "あなたの名前は何ですか？- 你的名字是什么？",
+      "level": "N5",
+      "category": "人称代词"
+    },
+    {
+      "word": "学校",
+      "pronunciation": "[gakkou]",
+      "meaning": "学校",
+      "example": "学校で勉強します。- 在学校学习。",
+      "level": "N5",
+      "category": "地点"
+    },
+    {
+      "word": "先生",
+      "pronunciation": "[sensei]",
+      "meaning": "老师",
+      "example": "田中先生は親切です。- 田中老师很亲切。",
+      "level": "N5",
+      "category": "职业"
+    },
+    {
+      "word": "本",
+      "pronunciation": "[hon]",
+      "meaning": "书",
+      "example": "面白い本を読みました。- 读了一本有趣的书。",
+      "level": "N5",
+      "category": "物品"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "在线日语词汇示例",
+  "description": "适用于 EasyJp 应用的在线日语词汇集合，包含常用的日常会话词汇",
+  "version": "1.1",
+  "createdDate": "2025-10-29T08:00:00Z",
+  "words": [
+    {
+      "word": "おはよう",
+      "pronunciation": "[ohayou]",
+      "meaning": "早上好（非正式）",
+      "example": "友達におはようと言いました。- 向朋友说了早上好。",
+      "level": "N5",
+      "category": "问候"
+    },
+    {
+      "word": "おはようございます",
+      "pronunciation": "[ohayou gozaimasu]",
+      "meaning": "早上好（正式）",
+      "example": "先生におはようございますと挨拶しました。- 向老师正式问了早安。",
+      "level": "N5",
+      "category": "问候"
+    },
+    {
+      "word": "今日",
+      "pronunciation": "[kyou]",
+      "meaning": "今天",
+      "example": "今日はいい天気ですね。- 今天天气很好呢。",
+      "level": "N5",
+      "category": "时间"
+    },
+    {
+      "word": "明日",
+      "pronunciation": "[ashita]",
+      "meaning": "明天",
+      "example": "明日は休みです。- 明天是休息日。",
+      "level": "N5",
+      "category": "时间"
+    },
+    {
+      "word": "家族",
+      "pronunciation": "[kazoku]",
+      "meaning": "家人、家族",
+      "example": "家族と一緒に旅行しました。- 和家人一起去旅行了。",
+      "level": "N4",
+      "category": "家庭"
+    },
+    {
+      "word": "会社",
+      "pronunciation": "[kaisha]",
+      "meaning": "公司",
+      "example": "大きな会社で働いています。- 在一家大公司工作。",
+      "level": "N4",
+      "category": "工作"
+    },
+    {
+      "word": "料理",
+      "pronunciation": "[ryouri]",
+      "meaning": "料理、菜肴",
+      "example": "母の料理はとても美味しいです。- 妈妈的料理非常好吃。",
+      "level": "N4",
+      "category": "食物"
+    },
+    {
+      "word": "約束",
+      "pronunciation": "[yakusoku]",
+      "meaning": "约定、承诺",
+      "example": "友達と約束をしました。- 和朋友约好了。",
+      "level": "N3",
+      "category": "人际关系"
+    },
+    {
+      "word": "経験",
+      "pronunciation": "[keiken]",
+      "meaning": "经验、体验",
+      "example": "海外での生活経験があります。- 有海外生活的经验。",
+      "level": "N3",
+      "category": "抽象概念"
+    },
+    {
+      "word": "努力",
+      "pronunciation": "[doryoku]",
+      "meaning": "努力",
+      "example": "日本語の勉強を努力しています。- 在努力学习日语。",
+      "level": "N3",
+      "category": "行为"
+    }
+  ]
+}

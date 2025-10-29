@@ -8,8 +8,12 @@
 import SwiftUI
 import SwiftData
 
+let version = "0.0.0"
+
 @main
 struct EasyJpApp: App {
+    @StateObject private var wordManager = WordManager()
+    
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
@@ -25,8 +29,10 @@ struct EasyJpApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainpageView()
+                .environmentObject(wordManager)
         }
         .modelContainer(sharedModelContainer)
     }
 }
+
